@@ -64,7 +64,7 @@ Active Media Application (VLC / YouTube / Browser)
 ## 📊 Performance (Jetson Nano)
 
 - Accuracy: ~98%
-- FPS: 10-14 FPS
+- FPS: 10-20 FPS
 - Latency: 50–80 ms
 - False Positives: Very Low (after optimization)
 - False Negatives: Rare
